@@ -13,7 +13,9 @@ To calculate the operation, you must enter the first & second numbers and choose
 The final result is shown as follows: " the result of this operation (first_number 'the_operation' second_numer) is: 'the result' "
 
 example:
+
 1/ Enter the first number: 5
+
 2/ Enter the second number: 2
 
 3/ Choose an operation( * , - , + ):  [*]:1, [-]:2, [+]:3
